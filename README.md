@@ -1,1 +1,0 @@
-# ArduCAM_ESP32S_UNO
