@@ -1,2 +1,2 @@
-# Arduino core for ESP32 WiFi chip
+https://avatars1.githubusercontent.com/u/11016968?v=3&s=400
 
