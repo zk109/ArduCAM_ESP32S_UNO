@@ -17,7 +17,7 @@
             ![Step 2](https://github.com/zk109/test/blob/master/win-gui-2.png)
             ![Step 3](https://github.com/zk109/test/blob/master/win-gui-3.png)
         
-    - Open ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/ArduCAM/esp32/tools``` and double-click ```get.exe```
+    - Open ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/ArduCAM/ArduCAM_ESP32S_UNO/esp32/tools``` and double-click ```get.exe```
     
         ![Step 4](https://github.com/zk109/test/blob/master/win-gui-4.png)
         
