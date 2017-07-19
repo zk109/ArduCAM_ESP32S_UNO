@@ -15,7 +15,7 @@
         - Click ```Clone``` to start cloning the repository
         
             ![Step 2](https://github.com/zk109/test/blob/master/win-gui-2.png)
-            ![Step 3](win-gui-3.png)
+            ![Step 3](https://github.com/zk109/test/blob/master/win-gui-3.png)
         
     - Open ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/ArduCAM/esp32/tools``` and double-click ```get.exe```
     
@@ -23,7 +23,7 @@
         
     - When ```get.exe``` finishes, you should see the following files in the directory
     
-        ![Step 5](win-gui-5.png)
+        ![Step 5](https://github.com/zk109/test/blob/master/win-gui-5.png)
         
 4. Plug your ESP32 board and wait for the drivers to install (or install manually any that might be required)
 5. Start Arduino IDE
