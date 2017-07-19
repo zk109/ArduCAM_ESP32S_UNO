@@ -9,15 +9,15 @@
         ![Step 1](https://github.com/zk109/test/blob/master/win-gui-1.png)
         
     - Select source and destination
-        - Source Location: ```https://github.com/espressif/arduino-esp32.git```
-        - Target Directory: ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/espressif/esp32```
+        - Source Location: ```https://github.com/ArduCAM/ArduCAM_ESP32S_UNO.git```
+        - Target Directory: ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/ArduCAM/ArduCAM_ESP32S_UNO```
         - Change this to your Sketchbook Location if you have a different directory listed underneath the "Sketchbook location" in Arduino preferences.
         - Click ```Clone``` to start cloning the repository
         
             ![Step 2](win-gui-2.png)
             ![Step 3](win-gui-3.png)
         
-    - Open ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/espressif/esp32/tools``` and double-click ```get.exe```
+    - Open ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/ArduCAM/esp32/tools``` and double-click ```get.exe```
     
         ![Step 4](win-gui-4.png)
         
@@ -44,6 +44,6 @@
     ![Update Step 2](win-gui-update-2.png)
     
 3. Wait for git to pull any changes and close ```Git GUI```
-4. Open ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/espressif/esp32/tools``` and double-click ```get.exe```
+4. Open ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino/hardware/ArduCAM/esp32/tools``` and double-click ```get.exe```
 
     ![Step 4](win-gui-4.png)
