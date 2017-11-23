@@ -6,7 +6,7 @@
 3. Start ```Git GUI``` and run through the following steps:
     - Select ```Clone Existing Repository```
     
-        !(https://github.com/zk109/test/blob/master/win-gui-1.png)
+        ![Step 1](https://github.com/zk109/test/blob/master/win-gui-1.png)
         
     - Select source and destination
         - Source Location: ```https://github.com/ArduCAM/ArduCAM_ESP32S_UNO.git```
